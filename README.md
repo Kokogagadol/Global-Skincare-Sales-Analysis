@@ -37,7 +37,7 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
 ***
 ## 1. Data Wrangling
 * ### Data Gathering
-  
+  pada tahapan awal kita perlu mengimport dataset yang akan dianalisis terlabih dahulu menggunakan library `pandas`.
   ```python
   # import library
   import numpy as np
@@ -47,27 +47,38 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   data = pd.read_excel('/content/drive/MyDrive/Portfolio/Project 2 - Global Skincare/Global skincare and Beauty e-store_E-commerce Analysis_English.xlsx', sheet_name='data')
   data.head(3)
   ```
-  pada tahapan awal kita perlu mengimport dataset yang akan dianalisis terlabih dahulu menggunakan library `pandas`.
-  
   output:
+
   
 * ### Data Assesing
+  pada tahapan assesing data dilakuan beberapa pengecekan seperti data duplikat, data yang hilang, data tidak konsisten dan kesalahan tipe data. pengecekan dilakuan bertujuan agar mengetahui apa saja yang perlu diperbaiki atau dibersihkan di tahap data cleaning.
   
   ```python
   # 1. Check Data Duplicate
   print(f'Jumlah Data Duplicate : {data.duplicated().sum()}
   
   # 2. Check Missing Value
-  print(f'Jumlah Missing Value  : {data.isna().sum()}'
-  
-  # 3. Check Inconsitent Data
-  
-  # 4. Check Data Type
+  print(f'Jumlah Missing Value  : \n{data.isna().sum()}'
   ```
-  pada tahapan assesing data dilakuan beberapa pengecekan seperti data duplikat, data yang hilang, data tidak konsisten dan kesalahan tipe data. pengecekan dilakuan bertujuan agar mengetahui apa saja yang perlu diperbaiki atau dibersihkan di tahap data cleaning.
+  Output:
+
+  ```python
+  # 3. Chek Data Type
+  data.info()
+  ```
+  Output:
   
 * ### Data Cleaning
-
+  ```python
+  # Menghapus Data Duplikat
+  data.drop_duplicates(inplace=True)
+  
+  # Mengahapus Missing Value
+  data.dropna(inplace=True)
+  
+  # Menambahkan Underscore '_' pada kolom yang memiliki dua kata
+  data.rename(columns=lambda x:x.replace(" ","_"), inplace=True)
+  ```
 
 ***
 ## 2. Exploratory Data Analysis
