@@ -44,8 +44,8 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   import pandas pd
 
   # load dataset
-  data = pd.read_excel(,sheet_name='data')
-  data.head()
+  data = pd.read_excel('/content/drive/MyDrive/Portfolio/Project 2 - Global Skincare/Global skincare and Beauty e-store_E-commerce Analysis_English.xlsx', sheet_name='data')
+  data.head(3)
   ```
   pada tahapan awal kita perlu mengimport dataset yang akan dianalisis terlabih dahulu menggunakan library `pandas`.
   
