@@ -92,9 +92,9 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   print(data.columns)
   ```
   Output:
+  
+  ![Image](https://github.com/user-attachments/assets/059f3bba-6e17-4250-987b-7a9c844eac22)
 
-  
-  
   Terlihat bahwa dataset kini memiliki format nama kolom yang sudah sesuai
 ***
 ## 2. Exploratory Data Analysis
@@ -102,6 +102,8 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
 data.describe()
 ```
 Output:
+
+![Image](https://github.com/user-attachments/assets/78ffaa0f-f030-4a77-87cd-6974fa76bf0e)
 
 Kode di atas akan menampilkan ringkasan dari data yang akan dianalisis dimana diketahui bahwa dataset menunjukan data transaksi dari bulan januari 2020 hingga Desember 2023 (4 tahun) dengan penjualan terbesar berada di angka $3940 sedangkan terkcilnya berada di angka $2, untuk jumlah pembelian terbanyak adalah 20 pcs dan pembelian terkcilnya yaitu 1 pcs, discount terbesar yang pernah diberikan adalah 85%. selain itu toko pernah mencatatakn profit terbesarnya di angka $1820 dan pernah mencatatkan profit minus di angka -$1746.
 
