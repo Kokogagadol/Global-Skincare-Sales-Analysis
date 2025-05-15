@@ -50,7 +50,7 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   output:
   
   ![Image](https://github.com/user-attachments/assets/48a0db5d-5e41-4878-99ee-31a31aa7e5b1)
- 
+
 * ### Data Assesing
   pada tahapan assesing data dilakuan beberapa pengecekan seperti data duplikat, data yang hilang, data tidak konsisten dan kesalahan tipe data. pengecekan dilakuan bertujuan agar mengetahui apa saja yang perlu diperbaiki atau dibersihkan di tahap data cleaning.
   
@@ -64,7 +64,9 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   Output:
   
   ![Image](https://github.com/user-attachments/assets/f358a09b-6dea-418e-a2bc-cbb2bb0e5280)
- 
+
+  Terlihat tidak ditemuakan adanya data duplikat maupun missing value pada dataset
+
   ```python
   # 3. Chek Data Type
   data.info()
@@ -72,8 +74,12 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   Output:
   
   ![Image](https://github.com/user-attachments/assets/82c3d1e7-e91a-4614-be2a-41527350d538)
+
+  Begitupun juga dengan tipe data untuk tiap kolomnya sudah sesuai dengan semestinya, namun dalam informasi di atas terlihat bahwa beberapa nama kolom memiliki pemisah spasi yang perlu diganti.
   
 * ### Data Cleaning
+  Tidak banyak yang dilakukan dalam tahap cleaning hanya mengganti spasi dengan karakter underscore pada beberapa kolom yang memiliki dua kata sebagai pemisahnya agar sesuai dengan kaidah yang berlaku.
+  
   ```python
   # Menghapus Data Duplikat
   data.drop_duplicates(inplace=True)
@@ -83,8 +89,13 @@ Dalam dunia e-commerce yang kompetitif, perusahaan perlu memahami data transaksi
   
   # Menambahkan Underscore '_' pada kolom yang memiliki dua kata
   data.rename(columns=lambda x:x.replace(" ","_"), inplace=True)
+  print(data.columns)
   ```
+  Output:
 
+  
+  
+  Terlihat bahwa dataset kini memiliki format nama kolom yang sudah sesuai
 ***
 ## 2. Exploratory Data Analysis
 ```python
