@@ -31,11 +31,38 @@ Dataset mencakup informasi:
 5. Rekomendasi Bisnis
 
 ## 📊 Hasil Utama
+- 📈 Penjualan menunjukkan peningkatan konsisten dari 2020 hingga 2023, mencapai **`$2.192.647`** di tahun terakhir, menandakan pertumbuhan bisnis yang baik. Namun, profit mengalami penurunan di tahun 2023 setelah kenaikan selama dua tahun sebelumnya.
+  
+  ![Image](https://github.com/user-attachments/assets/f026e0fa-581b-40b4-81c2-a73b9bd02f7f)
 
+   Pola musiman yang kuat terlihat, dengan puncak penjualan di November-Desember dan titik terendah di Februari.
+  
+  ![Image](https://github.com/user-attachments/assets/6fd8e3aa-7561-4cbb-acfb-07cacde53c70)
 
-- 📈 Kategori *serum* memberikan profit terbesar di Q4.
-- 🔖 Diskon lebih dari 20% tidak meningkatkan penjualan secara signifikan.
-- 🧴 Produk *Aloe Vera Gel* adalah top-selling selama 6 bulan berturut-turut.
+- 🧴 Produk **Herbal Essences Bio** mencatat penjualan tertinggi **`$67.640`**, dan termasuk dalam kategori **Body Care**   yang dominan **`>$2.5 juta`**.
+  
+  ![Image](https://github.com/user-attachments/assets/7ff10da1-7e03-4de0-a2f3-78c7444c10bf)
+  
+  Namun, penjualan tinggi ini tidak sebanding dengan profit margin yang dihasilkan, mengindikasikan margin keuntungan per unit yang rendah.
+  
+  ![Image](https://github.com/user-attachments/assets/72b5ff4a-567b-4bfb-aa64-c0bfe30dcfea)
+
+- Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self-Employed** memberikan    kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
+  
+  ![Image](https://github.com/user-attachments/assets/0e7ac744-97f3-4249-b050-8f6a9852d072)
+
+- 🔖 Terdapat hubungan negatif antara pemberian diskon dan profit yang dihasilkan. Diskon antara **0%-20%** menghasilkan profit positif, sementara diskon **40%-80%** menyebabkan penurunan profit signifikan, bahkan kerugian.
+  
+  ![Image](https://github.com/user-attachments/assets/80fed549-b089-433a-9c1e-1e0c42b569a0)
+
+- Amerika Serikat mendominasi jumlah pembelian **(55.950 unit)**, jauh melampaui negara lain seperti Prancis **(15.969)** dan Australia **(15.937)**. **Asia Pacific** adalah market terbesar **(77.628 unit)**, diikuti oleh **Eropa (64.656) dan USCA (57.709)**.
+  
+  ![Image](https://github.com/user-attachments/assets/87b1672d-7602-46a4-87dd-390be3ffb953)
+
+- Meskipun total penjualan dan pembelian masih rendah, **Afrika Tengah** menunjukkan pertumbuhan penjualan yang signifikan **(60%)** dan profit margin yang lumayan **(28%)**. Ini menandakan potensi pasar yang perlu dikembangkan.
+
+  ![Image](https://github.com/user-attachments/assets/296032cc-8a47-4a8d-906d-045baea7afd7)
+
 
 ## ▶️ Cara Menjalankan
 1. Clone repo ini.
