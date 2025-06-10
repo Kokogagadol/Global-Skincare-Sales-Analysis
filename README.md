@@ -11,17 +11,17 @@ Proyek ini bertujuan untuk menganalisis performa penjualan dari toko e-commerce 
 
 ## 🧾 Dataset
 Dataset mencakup informasi:
-- Produk (`product_id`, `category`, `product_name`, `price`)
-- Transaksi (`order_id`, `order_date`, `quantity`, `discount`)
-- Hasil keuangan (`revenue`, `profit`)
-- Wilayah pelanggan (`region`, `customer_id`)
+- Produk (`Product`, `Category`, `Subcategory`)
+- Transaksi (`Order_ID`, `Order_Date`, `Quantity`, `Discount`)
+- Hasil keuangan (`Sales`, `Profit`)
+- Wilayah pelanggan (`Country`, `City`, `Region`,`Market`, `Customer_ID`)
 
-(Sumber: Dummy dataset dibuat untuk keperluan portofolio)
+(Sumber: Dummy dataset dibuat untuk keperluan portofolio (Kaggle)
 
 ## 🛠️ Tools yang Digunakan
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab / Jupyter Notebook
-- Tableau (opsional untuk dashboard)
+- Tableau (Dashboard)
 
 ## 🔍 Alur Analisis
 1. Data Cleaning & Preparation
@@ -30,7 +30,9 @@ Dataset mencakup informasi:
 4. Visualisasi Insight
 5. Rekomendasi Bisnis
 
-## 📊 Hasil Utama (Highlight)
+## 📊 Hasil Utama
+
+
 - 📈 Kategori *serum* memberikan profit terbesar di Q4.
 - 🔖 Diskon lebih dari 20% tidak meningkatkan penjualan secara signifikan.
 - 🧴 Produk *Aloe Vera Gel* adalah top-selling selama 6 bulan berturut-turut.
@@ -38,10 +40,10 @@ Dataset mencakup informasi:
 ## ▶️ Cara Menjalankan
 1. Clone repo ini.
 2. Jalankan `sales_analysis.ipynb` di Jupyter/Colab.
-3. (Opsional) Buka file dashboard Tableau untuk visual interaktif.
+3. Buka file dashboard Tableau untuk visual interaktif.
 
 ## 👤 Author
-Koko – Data Analyst Enthusiast  
+Koko
 Bandung, 2025
 
 ## 📄 License
