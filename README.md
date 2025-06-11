@@ -43,7 +43,7 @@ Dataset mencakup informasi:
 
 - 🧴 Produk **Herbal Essences Bio** mencatat penjualan tertinggi **`$67.640`**, dan termasuk dalam kategori **Body Care**   yang dominan **`>$2.5 juta`**.
   
-  ![Image](https://github.com/user-attachments/assets/7ff10da1-7e03-4de0-a2f3-78c7444c10bf)
+  ![Image](https://github.com/user-attachments/assets/57b9e77e-ec68-4dcb-99ec-9f49425eaae4)
   
   Namun, penjualan tinggi ini tidak sebanding dengan profit margin yang dihasilkan, mengindikasikan margin keuntungan per unit yang rendah.
   
@@ -69,9 +69,14 @@ Dataset mencakup informasi:
 
 - Meskipun total penjualan dan pembelian masih rendah, **Afrika Tengah** menunjukkan pertumbuhan penjualan yang signifikan **(60%)** dan profit margin yang lumayan **(28%)**. Ini menandakan potensi pasar yang perlu dikembangkan.
 
-  ![Image](https://github.com/user-attachments/assets/296032cc-8a47-4a8d-906d-045baea7afd7)
-
+  ![Image](https://github.com/user-attachments/assets/be40990e-1448-4dd0-bfe7-ccc21cc5387b)
+  
   Pertimbangkan untuk meluncurkan promosi yang berbeda untuk di wilayah tersebut guna mengomptimalkan potensi yang ada pada daerah tersebut.
+
+## Kesimpulan
+Secara Keseluruhan penjualan produk skincare dan kecantikan ini cukup baik dari segi penjualannya karena menunjukan tren yang positif hanya mungkin perlu untuk dikaji ulang tentang pemberian diskon karena dengan adanya pemberian diskon yang besar akan mempengaruhi profit yang dihasilkan. perlu diperhatikan juga untuk ketegori pelanggan Self-Employeed seperti degngan memberikan promosi yang berbeda dengan kategori pelanggan lainnya. Di Sisi lain perlu juga dipertimbangkan tentang strategi pemasaran serta promosi untuk wilayah-wilayah yang tingkat penjualannya masih rendah serta wilayah yang memiliki potensi baik
+
+## Dashboard
 
 
 ## ▶️ Cara Menjalankan
@@ -80,7 +85,7 @@ Dataset mencakup informasi:
 3. Buka file dashboard Tableau untuk visual interaktif.
 
 ## 👤 Author
-Koko
+Koko  
 Bandung, 2025
 
 ## 📄 License
