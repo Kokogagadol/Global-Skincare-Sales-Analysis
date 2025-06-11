@@ -39,6 +39,8 @@ Dataset mencakup informasi:
   
   ![Image](https://github.com/user-attachments/assets/6fd8e3aa-7561-4cbb-acfb-07cacde53c70)
 
+  Analisis mendalam diperlukan untuk mengidentifikasi penyebab **penurunan profit di 2023**, termasuk dampak diskon dan performa produk. Optimalkan promosi di **Q4 (Oktober - Desember)** dengan **bundling dan kampanye digital**, serta dorong penjualan di awal tahun **(Januari-Februari)** dengan program loyalitas atau peluncuran produk baru.
+
 - 🧴 Produk **Herbal Essences Bio** mencatat penjualan tertinggi **`$67.640`**, dan termasuk dalam kategori **Body Care**   yang dominan **`>$2.5 juta`**.
   
   ![Image](https://github.com/user-attachments/assets/7ff10da1-7e03-4de0-a2f3-78c7444c10bf)
@@ -46,8 +48,10 @@ Dataset mencakup informasi:
   Namun, penjualan tinggi ini tidak sebanding dengan profit margin yang dihasilkan, mengindikasikan margin keuntungan per unit yang rendah.
   
   ![Image](https://github.com/user-attachments/assets/72b5ff4a-567b-4bfb-aa64-c0bfe30dcfea)
+  
+  Evaluasi struktur biaya dan strategi diskon untuk **Herbal Essences Bio** guna meningkatkan profitabilitas. Pertimbangkan untuk fokus pada produk dengan margin lebih tinggi dalam kategori **Body Care** atau menyesuaikan harga **Herbal Essences Bio**.
 
-- Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self-Employed** memberikan    kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
+- Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self-Employed** memberikan kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
   
   ![Image](https://github.com/user-attachments/assets/0e7ac744-97f3-4249-b050-8f6a9852d072)
 
@@ -55,13 +59,19 @@ Dataset mencakup informasi:
   
   ![Image](https://github.com/user-attachments/assets/80fed549-b089-433a-9c1e-1e0c42b569a0)
 
+  Tinjau kembali strategi diskon secara keseluruhan dan batasi diskon besar-besaran yang dapat merugikan profitabilitas. Pertimbangkan alternatif promosi yang tidak terlalu bergantung pada diskon, seperti bundling atau hadiah dengan pembelian.
+  
 - Amerika Serikat mendominasi jumlah pembelian **(55.950 unit)**, jauh melampaui negara lain seperti Prancis **(15.969)** dan Australia **(15.937)**. **Asia Pacific** adalah market terbesar **(77.628 unit)**, diikuti oleh **Eropa (64.656) dan USCA (57.709)**.
   
   ![Image](https://github.com/user-attachments/assets/87b1672d-7602-46a4-87dd-390be3ffb953)
 
+  Fokuskan upaya pemasaran di **Amerika Serikat** dan **wilayah Asia Pacific** untuk memaksimalkan penjualan. Pertimbangkan untuk menyesuaikan strategi pemasaran di negara-negara dengan penjualan lebih rendah untuk meningkatkan penetrasi pasar
+
 - Meskipun total penjualan dan pembelian masih rendah, **Afrika Tengah** menunjukkan pertumbuhan penjualan yang signifikan **(60%)** dan profit margin yang lumayan **(28%)**. Ini menandakan potensi pasar yang perlu dikembangkan.
 
   ![Image](https://github.com/user-attachments/assets/296032cc-8a47-4a8d-906d-045baea7afd7)
+
+  Pertimbangkan untuk meluncurkan promosi yang berbeda untuk di wilayah tersebut guna mengomptimalkan potensi yang ada pada daerah tersebut.
 
 
 ## ▶️ Cara Menjalankan
