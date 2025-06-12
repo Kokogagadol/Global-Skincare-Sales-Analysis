@@ -51,7 +51,7 @@ Dataset mencakup informasi:
   
   Evaluasi struktur biaya dan strategi diskon untuk **Herbal Essences Bio** guna meningkatkan profitabilitas. Pertimbangkan untuk fokus pada produk dengan margin lebih tinggi dalam kategori **Body Care** atau menyesuaikan harga **Herbal Essences Bio**.
 
-- Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self- Employed** memberikan kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
+- 👥 Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self- Employed** memberikan kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
   
   ![Image](https://github.com/user-attachments/assets/0e7ac744-97f3-4249-b050-8f6a9852d072)
 
@@ -61,22 +61,22 @@ Dataset mencakup informasi:
 
   Tinjau kembali strategi diskon secara keseluruhan dan batasi diskon besar-besaran yang dapat merugikan profitabilitas. Pertimbangkan alternatif promosi yang tidak terlalu bergantung pada diskon, seperti bundling atau hadiah dengan pembelian.
   
-- Amerika Serikat mendominasi jumlah pembelian **(55.950 unit)**, jauh melampaui negara lain seperti Prancis **(15.969)** dan Australia **(15.937)**. **Asia Pacific** adalah market terbesar **(77.628 unit)**, diikuti oleh **Eropa (64.656) dan USCA (57.709)**.
+- 🗺️ Amerika Serikat mendominasi jumlah pembelian **(55.950 unit)**, jauh melampaui negara lain seperti Prancis **(15.969)** dan Australia **(15.937)**. **Asia Pacific** adalah market terbesar **(77.628 unit)**, diikuti oleh **Eropa (64.656) dan USCA (57.709)**.
   
   ![Image](https://github.com/user-attachments/assets/87b1672d-7602-46a4-87dd-390be3ffb953)
 
   Fokuskan upaya pemasaran di **Amerika Serikat** dan **wilayah Asia Pacific** untuk memaksimalkan penjualan. Pertimbangkan untuk menyesuaikan strategi pemasaran di negara-negara dengan penjualan lebih rendah untuk meningkatkan penetrasi pasar
 
-- Meskipun total penjualan dan pembelian masih rendah, **Afrika Tengah** menunjukkan pertumbuhan penjualan yang signifikan **(60%)** dan profit margin yang lumayan **(28%)**. Ini menandakan potensi pasar yang perlu dikembangkan.
+- 🏷️ Meskipun total penjualan dan pembelian masih rendah, **Afrika Tengah** menunjukkan pertumbuhan penjualan yang signifikan **(60%)** dan profit margin yang lumayan **(28%)**. Ini menandakan potensi pasar yang perlu dikembangkan.
 
   ![Image](https://github.com/user-attachments/assets/be40990e-1448-4dd0-bfe7-ccc21cc5387b)
   
   Pertimbangkan untuk meluncurkan promosi yang berbeda untuk di wilayah tersebut guna mengomptimalkan potensi yang ada pada daerah tersebut.
 
-## Kesimpulan
+## 📒 Kesimpulan
 Secara Keseluruhan penjualan produk skincare dan kecantikan ini cukup baik dari segi penjualannya karena menunjukan tren yang positif hanya mungkin perlu untuk dikaji ulang tentang pemberian diskon karena dengan adanya pemberian diskon yang besar akan mempengaruhi profit yang dihasilkan. Perlu diperhatikan juga untuk ketegori pelanggan Self-Employeed seperti dengan memberikan promosi yang berbeda dengan kategori pelanggan lainnya. Di Sisi lain perlu juga dipertimbangkan tentang strategi pemasaran serta promosi untuk wilayah-wilayah yang tingkat penjualannya masih rendah serta wilayah yang memiliki potensi baik
 
-## Dashboard
+## 📊 Dashboard
 ![Image](https://github.com/user-attachments/assets/451ab592-f712-42e4-a9b0-e34971296376)
 
 Untuk melihat Dashboard interaktif klik 
@@ -84,7 +84,7 @@ Untuk melihat Dashboard interaktif klik
 
 ## ▶️ Cara Menjalankan
 1. Clone repo ini.
-2. Jalankan `sales_analysis.ipynb` di Jupyter/Colab.
+2. Jalankan `Sales Analysis.ipynb` di Jupyter/Colab.
 3. Buka file dashboard Tableau untuk visual interaktif.
 
 ## 👤 Author
