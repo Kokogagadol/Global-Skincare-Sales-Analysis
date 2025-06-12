@@ -51,7 +51,7 @@ Dataset mencakup informasi:
   
   Evaluasi struktur biaya dan strategi diskon untuk **Herbal Essences Bio** guna meningkatkan profitabilitas. Pertimbangkan untuk fokus pada produk dengan margin lebih tinggi dalam kategori **Body Care** atau menyesuaikan harga **Herbal Essences Bio**.
 
-- Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self-Employed** memberikan kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
+- Segmen **Corporate** memberikan kontribusi profit terbesar **(608.523)** meskipun jumlah order **(15.429)** lebih sedikit dari segmen **Consumer" (26.518 order)**. Segmen **Consumer** menghasilkan profit **`$365.378`**, sementara **Self- Employed** memberikan kontribusi profit terendah **`($91.512,7` dengan 9.343 order)**.
   
   ![Image](https://github.com/user-attachments/assets/0e7ac744-97f3-4249-b050-8f6a9852d072)
 
@@ -74,10 +74,13 @@ Dataset mencakup informasi:
   Pertimbangkan untuk meluncurkan promosi yang berbeda untuk di wilayah tersebut guna mengomptimalkan potensi yang ada pada daerah tersebut.
 
 ## Kesimpulan
-Secara Keseluruhan penjualan produk skincare dan kecantikan ini cukup baik dari segi penjualannya karena menunjukan tren yang positif hanya mungkin perlu untuk dikaji ulang tentang pemberian diskon karena dengan adanya pemberian diskon yang besar akan mempengaruhi profit yang dihasilkan. perlu diperhatikan juga untuk ketegori pelanggan Self-Employeed seperti degngan memberikan promosi yang berbeda dengan kategori pelanggan lainnya. Di Sisi lain perlu juga dipertimbangkan tentang strategi pemasaran serta promosi untuk wilayah-wilayah yang tingkat penjualannya masih rendah serta wilayah yang memiliki potensi baik
+Secara Keseluruhan penjualan produk skincare dan kecantikan ini cukup baik dari segi penjualannya karena menunjukan tren yang positif hanya mungkin perlu untuk dikaji ulang tentang pemberian diskon karena dengan adanya pemberian diskon yang besar akan mempengaruhi profit yang dihasilkan. Perlu diperhatikan juga untuk ketegori pelanggan Self-Employeed seperti dengan memberikan promosi yang berbeda dengan kategori pelanggan lainnya. Di Sisi lain perlu juga dipertimbangkan tentang strategi pemasaran serta promosi untuk wilayah-wilayah yang tingkat penjualannya masih rendah serta wilayah yang memiliki potensi baik
 
 ## Dashboard
+![Image](https://github.com/user-attachments/assets/451ab592-f712-42e4-a9b0-e34971296376)
 
+Untuk melihat Dashboard interaktif klik 
+[Lihat Dashboard](https//:public.tableau.com/](https://public.tableau.com/views/Dashbord_17496234661780/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## ▶️ Cara Menjalankan
 1. Clone repo ini.
